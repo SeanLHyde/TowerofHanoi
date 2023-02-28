@@ -1,0 +1,15 @@
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/bin/Debug/net7.0/TowerOfHanoiNew
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/bin/Debug/net7.0/TowerOfHanoiNew.deps.json
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/bin/Debug/net7.0/TowerOfHanoiNew.runtimeconfig.json
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/bin/Debug/net7.0/TowerOfHanoiNew.dll
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/bin/Debug/net7.0/TowerOfHanoiNew.pdb
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.csproj.AssemblyReference.cache
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.AssemblyInfoInputs.cache
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.AssemblyInfo.cs
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.csproj.CoreCompileInputs.cache
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.dll
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/refint/TowerOfHanoiNew.dll
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.pdb
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/TowerOfHanoiNew.genruntimeconfig.cache
+/Users/seanhyde/RiderProjects/TowerOfHanoiNew/TowerOfHanoiNew/obj/Debug/net7.0/ref/TowerOfHanoiNew.dll
